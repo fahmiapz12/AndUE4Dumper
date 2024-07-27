@@ -19,12 +19,12 @@ public:
 
     std::string GetAppName() const override
     {
-        return "Ark Survival";
+        return "The Cursed Dinosaur Isle";
     }
 
     std::vector<std::string> GetAppIDs() const override
     {
-        return { "com.studiowildcard.wardrumstudios.ark" };
+        return { "com.jurassic.world.the.cursed.isle.dinosaurs.carnivores.dino.hunter.dinos.online.trex.tyrannosaurus.simulator" };
     }
 
     bool IsUsingFNamePool() const override
